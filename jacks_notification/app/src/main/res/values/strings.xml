@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Jack\'s notification</string>
+    <string name="select_app_btn">Select app</string>
+    <string name="delete_app_btn">Delete app</string>
+    <string name="empty_app_name_tv">No app is selected</string>
+    <string name="dark_theme_label">Dark theme</string>
+    <string name="create_test_notification">Create notification</string>
+    <string name="cancel_notification_txt">Cancel notification</string>
+    <string name="icon_description">Application</string>
+</resources>
