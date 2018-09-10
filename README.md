@@ -22,9 +22,9 @@ Compiled SDK Version - 26
 
 
 **Screenshots:**
-![App in action, dark theme](screenshots/screenshot_1.png){:height="400px"}
+![App in action, dark theme](screenshots/screenshot_1.png){:height="50%" width="50%"
 
-![App Interface](screenshots/screenshot_2.png){:height="400px"}
+![App Interface](screenshots/screenshot_2.png){:height="50%" width="50%"
 
 
 
