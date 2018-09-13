@@ -31,12 +31,12 @@ Compiled SDK Version - 26
 
 **Extra features:**
 
-- Dark and light theme
+* Dark and light theme
 
 
 
 **Credits:**
 
-- Canva (icon for logo)
+* Canva (icon for logo)
 
-- StackOverFlow's user - André [solution1](https://stackoverflow.com/a/10600736/2679982) 
+* StackOverFlow's user - André [solution1](https://stackoverflow.com/a/10600736/2679982) 
