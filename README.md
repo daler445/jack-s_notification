@@ -23,10 +23,9 @@ Compiled SDK Version - 26
 
 **Screenshots:**
 
+![App in action, dark theme](screenshots/Screenshot_1.png)
 
-![App in action, dark theme](screenshots/screenshot_1.png)
-
-![App Interface](screenshots/screenshot_2.png)
+![App Interface](screenshots/Screenshot_2.png)
 
 
 
